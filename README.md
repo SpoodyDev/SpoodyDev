@@ -1,6 +1,6 @@
 👋 Hi, I’m Spoody
 
-👀 Currently Know: LUA, JavaScript, HTML, CSS, And learning C#!
+👀 Currently Know: LUA, JavaScript, TypeScript, HTML, CSS, And learning C#!
 
 🌱I'm 16, Live in Illinois, I do this as a side hustle.
 
