@@ -2,7 +2,7 @@
 
 👀 Currently Know: LUA, JavaScript, TypeScript, HTML, CSS, And learning C#!
 
-🌱I'm 16, Live in Illinois, I do this as a side hustle.
+🌱16.
 
 📫 You can contact me in discord my discord is Spoody#9999
 
